@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nokusmart/static/css/main.6403558b.chunk.css",
-    "main.js": "/nokusmart/static/js/main.8d3f980e.chunk.js",
-    "main.js.map": "/nokusmart/static/js/main.8d3f980e.chunk.js.map",
-    "runtime-main.js": "/nokusmart/static/js/runtime-main.1207a3ef.js",
-    "runtime-main.js.map": "/nokusmart/static/js/runtime-main.1207a3ef.js.map",
-    "static/css/2.66b7f74f.chunk.css": "/nokusmart/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.2c5667cf.chunk.js": "/nokusmart/static/js/2.2c5667cf.chunk.js",
-    "static/js/2.2c5667cf.chunk.js.map": "/nokusmart/static/js/2.2c5667cf.chunk.js.map",
-    "index.html": "/nokusmart/index.html",
-    "precache-manifest.ceb2177a758d2a1db4a09a8ef4b4b654.js": "/nokusmart/precache-manifest.ceb2177a758d2a1db4a09a8ef4b4b654.js",
-    "service-worker.js": "/nokusmart/service-worker.js",
-    "static/css/2.66b7f74f.chunk.css.map": "/nokusmart/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.6403558b.chunk.css.map": "/nokusmart/static/css/main.6403558b.chunk.css.map",
-    "static/js/2.2c5667cf.chunk.js.LICENSE.txt": "/nokusmart/static/js/2.2c5667cf.chunk.js.LICENSE.txt"
+    "main.css": "/smartapp/static/css/main.6403558b.chunk.css",
+    "main.js": "/smartapp/static/js/main.fb0b7ded.chunk.js",
+    "main.js.map": "/smartapp/static/js/main.fb0b7ded.chunk.js.map",
+    "runtime-main.js": "/smartapp/static/js/runtime-main.ca81b3e7.js",
+    "runtime-main.js.map": "/smartapp/static/js/runtime-main.ca81b3e7.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/smartapp/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.70ab2898.chunk.js": "/smartapp/static/js/2.70ab2898.chunk.js",
+    "static/js/2.70ab2898.chunk.js.map": "/smartapp/static/js/2.70ab2898.chunk.js.map",
+    "index.html": "/smartapp/index.html",
+    "precache-manifest.d3c1c71e91c3a8105ea4b502cc87b8a8.js": "/smartapp/precache-manifest.d3c1c71e91c3a8105ea4b502cc87b8a8.js",
+    "service-worker.js": "/smartapp/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/smartapp/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.6403558b.chunk.css.map": "/smartapp/static/css/main.6403558b.chunk.css.map",
+    "static/js/2.70ab2898.chunk.js.LICENSE.txt": "/smartapp/static/js/2.70ab2898.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1207a3ef.js",
+    "static/js/runtime-main.ca81b3e7.js",
     "static/css/2.66b7f74f.chunk.css",
-    "static/js/2.2c5667cf.chunk.js",
+    "static/js/2.70ab2898.chunk.js",
     "static/css/main.6403558b.chunk.css",
-    "static/js/main.8d3f980e.chunk.js"
+    "static/js/main.fb0b7ded.chunk.js"
   ]
 }
