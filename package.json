@@ -19,6 +19,8 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "heroku -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
