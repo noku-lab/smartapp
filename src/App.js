@@ -24,6 +24,7 @@ const particelesOptions = {
   }
 }
 
+
 const initialState ={
       input: '',
       imageUrl:'',

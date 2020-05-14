@@ -1,6 +1,6 @@
 {
-  "homepage": "http://noku-lab.github.io/nokusmart",
-  "name": "nokusmart",
+  "homepage": "http://noku-lab.github.io/smartapp",
+  "name": "smartapp",
   "version": "0.1.0",
   "private": true,
   "engines": {

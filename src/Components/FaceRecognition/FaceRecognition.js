@@ -3,6 +3,7 @@ import './FaceRecognition.css'
 
 const FaceRecognition = ({ imageUrl, box }) => {
     return (
+        
         <div className ='center ma'>
             <div className = "absolute mt2">
                <img id="image" src ={imageUrl} alt="" width='400px' height='auto'/>
